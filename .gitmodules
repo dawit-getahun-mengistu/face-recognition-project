@@ -1,0 +1,3 @@
+[submodule "flutter_face_recognizer"]
+	path = flutter_face_recognizer
+	url = https://github.com/dawit-getahun-mengistu/flutter_face_recognizer.git
